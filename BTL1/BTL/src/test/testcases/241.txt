@@ -1,0 +1,8 @@
+Class A {
+            Constructor() {var1 = 0;}
+            Destructor() {}
+            MyTest() {
+                var1 = 12;
+                var1 = 12 = 13;
+            }
+        }

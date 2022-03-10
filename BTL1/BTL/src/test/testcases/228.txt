@@ -1,0 +1,6 @@
+Class A {
+            testing() {
+                arr[i] = 5;
+                arr[5] = x;
+            }
+        }

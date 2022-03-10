@@ -1,0 +1,5 @@
+
+        Class Program {
+            Val c, d, e: Int = 12, 13, 10;
+        }
+        

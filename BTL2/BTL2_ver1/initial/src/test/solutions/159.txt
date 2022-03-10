@@ -1,0 +1,1 @@
+Class,Shape,{,$callMeNow,(,),{,Return,123,;,},},Class,A,{,MyTest,(,),{,Shape,::,$callMeNow,(,),;,},},<EOF>

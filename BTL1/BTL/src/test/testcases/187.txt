@@ -1,0 +1,5 @@
+
+        Class Shape {
+            Val a, b: Int = (1 + 12), 3 * 5;
+        }
+        

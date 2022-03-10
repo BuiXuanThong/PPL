@@ -1,0 +1,6 @@
+Class A {
+            MyTest() {
+                Var yes: Boolean;
+                yes = (True && False) || (False || (3 != 2) || (5 >= 3));
+            }
+        }

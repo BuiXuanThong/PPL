@@ -1,0 +1,10 @@
+
+        Class myClass {
+            testFunc() {
+                Var a, b, c: Boolean;
+                a = True;
+                b = False;
+                c = (a && b) || (a || b);
+            }
+        }
+        

@@ -1,0 +1,4 @@
+
+        Var a, b, c: Int;
+        a = ((b + c) % c) + (c % a);
+        

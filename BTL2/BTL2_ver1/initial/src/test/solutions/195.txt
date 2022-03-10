@@ -1,0 +1,1 @@
+Class,Test,{,Var,myVar1,:,Boolean,=,!,(,2,>,3,),;,Var,myVar2,:,Boolean,=,(,2,==,3,),&&,(,2,==,2,),;,},<EOF>

@@ -1,0 +1,14 @@
+
+        Class A {
+            func() {
+                Foreach (i In 0 .. 10) {
+                    If (i == 5) {
+                        Break;
+                    }
+                    Else {
+                        Continue;
+                    }
+                }
+            }
+        }
+        

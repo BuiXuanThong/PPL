@@ -1,0 +1,6 @@
+
+        Var str: String;
+        If("goodbye" ==. "goodluck") {
+            str = "goodbye" +. "goodluck";
+        }
+        

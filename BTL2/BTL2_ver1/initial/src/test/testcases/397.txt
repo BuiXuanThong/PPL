@@ -1,0 +1,14 @@
+Class A {
+            testFunc() {
+                If(!(a == b)) {
+                    Return;
+                }
+                Else {
+                    Foreach (i In 1 .. 10) {
+                        If(i == 5) { Return; }
+                        Else { Continue; }
+                    }
+                }
+                Return 5;
+            }
+        }

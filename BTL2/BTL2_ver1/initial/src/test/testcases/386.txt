@@ -1,0 +1,12 @@
+
+        Class myClass {
+            testFunc() {
+                If (1) {
+                    Foreach (i In 0 .. 1000 By 10) {
+                    }
+                    Foreach (i In 0 .. 1000) {
+                    }
+                }
+            }
+        }
+        

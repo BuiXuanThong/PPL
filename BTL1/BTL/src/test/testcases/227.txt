@@ -1,0 +1,6 @@
+Class A {
+            testing() {
+                a[2][4] = a[5][6];
+                Self.var = 14;
+            }
+        }

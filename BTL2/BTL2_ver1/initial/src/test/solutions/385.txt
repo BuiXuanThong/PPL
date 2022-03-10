@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(myClass),[MethodDecl(Id(testFunc),Instance,[],Block([VarDecl(Id(a),BoolType),VarDecl(Id(b),BoolType),VarDecl(Id(c),BoolType),AssignStmt(Id(a),BooleanLit(True)),AssignStmt(Id(b),BooleanLit(False)),AssignStmt(Id(c),BinaryOp(||,BinaryOp(&&,Id(a),Id(b)),BinaryOp(||,Id(a),Id(b))))]))])])

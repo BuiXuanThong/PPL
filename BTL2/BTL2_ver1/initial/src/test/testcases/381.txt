@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() {
+                Return "main";
+            }
+            main(a: Int) {
+                Return "main fake";
+            }
+        }
+        

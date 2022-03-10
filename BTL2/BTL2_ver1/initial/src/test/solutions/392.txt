@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(A),[MethodDecl(Id(MyTest),Instance,[],Block([VarDecl(Id(str),StringType),If(BinaryOp(==.,StringLit(goodbye),StringLit(goodluck)),Block([AssignStmt(Id(str),BinaryOp(+.,StringLit(goodbye),StringLit(goodluck)))]))]))])])

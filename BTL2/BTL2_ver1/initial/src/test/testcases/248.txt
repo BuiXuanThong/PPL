@@ -1,0 +1,9 @@
+Class A {
+            MyTest() {
+                Foreach (var1 In 90 .. 100) {
+                    Foreach (var2 In 10 .. 100) {
+                        Break;
+                    }
+                }
+            }
+        }

@@ -1,0 +1,14 @@
+
+        Class myClass {
+            $myFunc() {
+                {
+                    Var a: Int;
+                    Var b: FLoat = 12.3;
+                }
+                {
+                    Var c: String = "Hello";
+                }
+            }
+            
+        }
+        

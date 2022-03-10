@@ -1,0 +1,11 @@
+Class A {
+            Var $name, $age: Int;
+            Val birth: Int;
+            MyTest() {
+                Var a, b, c: Int;
+                Val x, y, z: Float;
+                a = b + c;
+                b = y * z;
+                birth = Person::$getMyDay();
+            }
+        }

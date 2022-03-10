@@ -1,0 +1,5 @@
+Class Shape {
+            $getNumOfShape(My1stCons, My2ndCons: Int; MyFloat: Float) {
+
+            }
+        }

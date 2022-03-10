@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(A),[MethodDecl(Id(testFunc),Instance,[],Block([AssignStmt(Id(a),ArrayCell(Id(b),[IntLit(1),IntLit(2)])),AssignStmt(ArrayCell(Id(b),[IntLit(1),IntLit(2)]),ArrayCell(Id(c),[IntLit(3),IntLit(4)]))]))])])

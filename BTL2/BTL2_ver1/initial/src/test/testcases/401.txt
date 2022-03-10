@@ -1,0 +1,16 @@
+
+            Class ForStmt {
+            stmt()
+            {
+               Var x, y, z: Boolean;
+               Var g, h, y: Int;
+               Foreach (i In 4 .. -5 By 2) {
+                If (i >= 3) {
+                  Return a[0].add();
+                } 
+               }
+            Return 1;
+            }
+            
+            }
+        

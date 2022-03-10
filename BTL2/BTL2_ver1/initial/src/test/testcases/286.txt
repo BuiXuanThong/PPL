@@ -1,0 +1,8 @@
+
+        Class Program {
+            main() { }
+            testFunc() {
+                Self.name = "abc";
+                Self .age = "12";
+            }
+        }

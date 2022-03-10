@@ -1,0 +1,11 @@
+Class A {
+            Constructor() {}
+            Destructor() {}
+            MyTest() {
+                Foreach (var1 In 90 .. 100 By 1) {
+                    Foreach (var2 In 10 .. 100 By 5) {
+                        Break;
+                    }
+                }
+            }
+        }

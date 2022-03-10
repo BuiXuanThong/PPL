@@ -1,0 +1,1 @@
+testing,(,),{,Out,.,printInt,(,arr,[,x,],),;,{,{,myVar,=,12,;,},},},<EOF>

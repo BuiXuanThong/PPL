@@ -1,0 +1,8 @@
+Class A {
+            Destructor() {}
+            MyTest() {
+                Foreach (var1 In 50 .. 100 By 5) {
+                    Break;
+                }
+            }
+        }

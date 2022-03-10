@@ -1,0 +1,7 @@
+Class Test {
+             $getNumOfShape(My1stCons, My2ndCons: Int; MyFloat: Float) {
+                If(3 > 2) {My1stCons = 3 + 6;}
+                Elseif(My1stCons > 9) {My1stCons = 11;}
+                Else {My1stCons = 99;}
+            }
+        }

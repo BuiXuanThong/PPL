@@ -1,0 +1,7 @@
+Class Test {
+            myTestFunc(var1, var2: Int; var3: Float) {
+                Foreach (var1 In 1 .. 100 By 2) {
+                    var2 = var2 + 3;
+                }
+            }
+        }

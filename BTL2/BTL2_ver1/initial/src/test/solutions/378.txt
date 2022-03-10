@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([])),MethodDecl(Id(testFunc),Instance,[],Block([AssignStmt(FieldAccess(Self(),Id(name)),StringLit(abc)),AssignStmt(FieldAccess(Self(),Id(age)),StringLit(12))]))])])

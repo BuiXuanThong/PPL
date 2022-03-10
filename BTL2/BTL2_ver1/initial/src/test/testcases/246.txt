@@ -1,0 +1,12 @@
+Class A {
+            Constructor() {}
+            Destructor() {}
+            MyTest() {
+                If (var1 > 62) {
+                    If(var1 < 70) {
+                        Foreach (var1 In 90 .. 100 By 1) { }
+                    }
+                }
+                Else {var1 = var1 + 1;}
+            }
+        }

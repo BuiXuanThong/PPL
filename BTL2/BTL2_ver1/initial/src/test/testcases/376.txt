@@ -1,0 +1,14 @@
+
+        Class myClass {
+            $addFunc(a, b: Int) {
+                Return a + b;
+            }
+            $subFunc(a, b: Int) {
+                Return a - b;
+            }
+            printFunc()
+            {
+                Return myClass::$addFunc(1, 2);
+            }
+        }
+        

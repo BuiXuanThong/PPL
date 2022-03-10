@@ -1,0 +1,6 @@
+Class A {
+            testing() {
+                ss = r * r * Self.myPI;
+                return ss;
+            }
+        }

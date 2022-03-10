@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() { }
+            testFunc() {
+                Foreach (i In 0 . . 12 By 3)
+                {
+                    x = x * x + (3/2)*x + 9;
+                }
+            }
+        }

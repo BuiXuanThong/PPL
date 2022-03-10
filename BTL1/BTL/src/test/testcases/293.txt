@@ -1,0 +1,6 @@
+
+        Class Shape {
+        };
+        Class ComplexShape: Shape {
+        }
+        

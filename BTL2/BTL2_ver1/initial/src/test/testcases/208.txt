@@ -1,0 +1,4 @@
+Class Shape {
+            Val $immutableAttribute: Int = 23;
+            Var testNum: Float = 58;
+        }

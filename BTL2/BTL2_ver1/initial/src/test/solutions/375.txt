@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(myClass),[MethodDecl(Id($myFunc),Static,[],Block([Block([VarDecl(Id(a),IntType),VarDecl(Id(b),ClassType(Id(FLoat)),FloatLit(12.3))]),Block([VarDecl(Id(c),StringType,StringLit(Hello))])]))])])

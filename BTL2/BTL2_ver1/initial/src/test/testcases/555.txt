@@ -1,0 +1,13 @@
+
+                    Class Nodende{
+                Var value: Int=0;
+                Var nextNode: Node=Null;
+                Constructor(value:Int;next:Node){
+                    Self.value=value;
+                    Self.Node=next;
+                }
+                Constructor(value:Int){
+                    Self.value=value;
+                }
+            }
+            

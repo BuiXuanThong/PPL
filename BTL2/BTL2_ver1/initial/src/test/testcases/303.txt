@@ -1,0 +1,5 @@
+
+        Class Program {
+            testFunc(My1stCons, My2ndCons: Int; MyFloat: Float) {}
+        }
+        

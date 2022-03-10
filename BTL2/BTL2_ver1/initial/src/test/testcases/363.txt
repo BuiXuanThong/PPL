@@ -1,0 +1,10 @@
+
+        Class Program {
+            main(a, b: Int) {
+                Return;
+            }
+        }
+        Class A {
+            func() { }
+        }
+        

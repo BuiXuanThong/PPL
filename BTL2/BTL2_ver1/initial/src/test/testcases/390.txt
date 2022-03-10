@@ -1,0 +1,8 @@
+
+        Class myClass {
+            testFunc() {
+                Foreach (i In (3-2) .. (10 * 100)) {
+                }
+            }
+        }
+        

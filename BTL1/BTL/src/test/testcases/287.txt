@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() { }
+            testFunc() {
+                testFunc2() {
+                    Var a, b: Int;
+                    a = 20;
+                }
+            }
+        }

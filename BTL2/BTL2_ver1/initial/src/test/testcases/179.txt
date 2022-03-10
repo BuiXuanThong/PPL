@@ -1,0 +1,4 @@
+
+        For example, var a: Array[Int, 5]; indicates a five-element array: a[1], a[2], a[3], a[4], a[5].
+
+        

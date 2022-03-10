@@ -1,0 +1,12 @@
+
+        Class Program {
+        ##  main() {
+                Var a, b, c: Int;
+            }
+        ##
+            main() {
+                a = 1;
+                b = 2;
+            }
+        }
+        

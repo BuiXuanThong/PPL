@@ -1,0 +1,6 @@
+Class Test {
+            Return;
+            myTestFunc() {
+                
+            }
+        }

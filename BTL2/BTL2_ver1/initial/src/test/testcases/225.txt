@@ -1,0 +1,7 @@
+Class Test {
+            myTestFunc() {
+                Shape::$getNumOfShape();
+                Out.printInt(i);
+                Out.printInt(Shape::$numOfShape);
+            }
+        }

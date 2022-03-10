@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(myClass),[MethodDecl(Id($addFunc),Static,[param(Id(a),IntType),param(Id(b),IntType)],Block([Return(BinaryOp(+,Id(a),Id(b)))])),MethodDecl(Id($subFunc),Static,[param(Id(a),IntType),param(Id(b),IntType)],Block([Return(BinaryOp(-,Id(a),Id(b)))])),MethodDecl(Id(printFunc),Instance,[],Block([Return(CallExpr(Id(myClass),Id($addFunc),[IntLit(1),IntLit(2)]))]))])])

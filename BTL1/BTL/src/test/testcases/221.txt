@@ -1,0 +1,11 @@
+Class Test {
+            myTestFunc(var1, var2: Int; var3: Float) {
+                Foreach (var1 In 1 .. 100 By 2) {
+                    If(3 == 2) {
+                        var2 = 14 * 9;
+                        Return var2;
+                    }
+                }
+                Return;
+            }
+        }

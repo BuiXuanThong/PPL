@@ -1,0 +1,9 @@
+
+        Class myClass {
+            testFunc() {
+                obj.getA();
+                obj.getB(1, 2, 3);
+                obj::$getC();
+            }
+        }
+        

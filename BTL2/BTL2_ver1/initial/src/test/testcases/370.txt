@@ -1,0 +1,7 @@
+
+        Class A {
+            $testStatic() { }
+            testInstance() { }
+            $testStatic2() { }
+        }
+        

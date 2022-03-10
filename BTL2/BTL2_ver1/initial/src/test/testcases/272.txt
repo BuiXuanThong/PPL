@@ -1,0 +1,13 @@
+
+        Class Shape {
+            Var a, b, c: Int = 1, 2, 3;
+            a = a + 2;
+            $testFunc() {
+                b = a * 2;
+            }
+        }
+        Class Program {
+            main() {
+                Shape::testFunc();
+            }
+        }

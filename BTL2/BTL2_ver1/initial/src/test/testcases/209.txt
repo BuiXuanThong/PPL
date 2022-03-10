@@ -1,0 +1,4 @@
+Class Shape {
+            Var length, width: Int;
+            Var height, top: Int = 72, 13;
+        }

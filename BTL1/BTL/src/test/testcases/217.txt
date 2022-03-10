@@ -1,0 +1,6 @@
+Class Test {
+             $getNumOfShape(var1, var2: Int; var3: Float) {
+                var1 = var2;
+                var2 = 9;
+            }
+        }

@@ -1,0 +1,10 @@
+
+        Class Shape {
+            $callMeNow() { }
+        }
+        Class Circle {
+            callMeLater() {
+                Var obj: Shape;
+            }
+        }
+        

@@ -1,0 +1,8 @@
+Class A {
+            testing() {
+                Out.printInt(arr[x]);
+                {
+                }
+                { }
+            }
+        }

@@ -1,0 +1,10 @@
+
+        Class myClass {
+            $myFunc() {
+                Return (1 + 2) * 3;
+            }
+            myFunc2() {
+                Return myClass::$myFunc();
+            }
+        }
+        

@@ -1,0 +1,16 @@
+
+        Class myClass {
+            testFunc() {
+                Foreach (i In 0 .. 100) {
+                    Foreach (j In 0 .. 100) {
+                        If (i == j) {
+                            Continue;
+                        }
+                        Else {
+                            j = j + 3;
+                        }
+                    }
+                }
+            }
+        }
+        

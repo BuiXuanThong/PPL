@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() { }
+            Class Shape {
+                Var a, b, c: Int = 1, 2, 3;
+                Foreach (a In 1 .. 100 By 2) {
+                        a = a + 3;
+                }
+            }
+        }

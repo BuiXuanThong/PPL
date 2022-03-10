@@ -1,0 +1,8 @@
+
+        Class Shape {
+            Var a, b: String;
+            testFunc() {
+                a = "with some \t \r";
+            }
+        }
+        

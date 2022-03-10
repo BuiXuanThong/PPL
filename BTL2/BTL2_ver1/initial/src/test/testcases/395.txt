@@ -1,0 +1,8 @@
+Class A {
+            Constructor(a, b: Int) { }
+            testFunc() { }
+            Destructor() {
+                obj.a = 0;
+                obj.b = 0;
+            }
+        }

@@ -1,0 +1,10 @@
+
+        In D96 programming language, there is only one type of comment: block comment. A block
+        comment starts with ## and ignores all characters (except EOF) until it reaches the nearest
+        ##. All characters in a block comment will be ignored.
+        For example:
+        ## This is a
+        multi-line
+        comment.
+        ##
+        

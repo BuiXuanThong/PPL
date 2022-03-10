@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(myClass),[MethodDecl(Id($myFunc),Static,[],Block([Return(IntLit(1)),Return(IntLit(2)),Return(IntLit(3))]))])])

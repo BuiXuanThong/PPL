@@ -1,0 +1,8 @@
+Class A {
+            MyTest() {
+                Var a, $b, c: Int;
+                Val x, y, z: Float;
+                a = b + c;
+                b = y * z;
+            }
+        }

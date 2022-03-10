@@ -1,0 +1,7 @@
+Class Test {
+            Val a, b: Int = 2,3;
+
+            ##FunnyFunc() {
+                Val a, b: Int = 2, 3, 4;
+            }##
+        }

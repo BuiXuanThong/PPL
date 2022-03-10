@@ -1,0 +1,8 @@
+Class A {
+            Constructor() {var1 = 0;}
+            Destructor() {}
+            MyTest() {
+                If(var1 > 12) { }
+                Elseif(var1 < 4) { }
+            }
+        }

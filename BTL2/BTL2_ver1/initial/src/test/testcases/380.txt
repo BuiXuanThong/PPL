@@ -1,0 +1,11 @@
+
+        Class A {
+            MyTest() {
+                If (True) {
+                    If (False) {
+                        If (True) { }
+                    }
+                }
+            }
+        }
+        

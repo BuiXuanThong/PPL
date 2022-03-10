@@ -1,0 +1,9 @@
+
+        Class Shape {
+            $myFunc() {
+                 Class SimpleShape { }
+            }
+        }
+        Class ComplexShape: Shape {
+        }
+        
