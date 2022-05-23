@@ -1,0 +1,15 @@
+
+        Class Program {
+            main() {
+  
+            }
+        }
+        Class A {
+            Var age: Int;
+        }
+        Class B: A {
+            myFun() {
+                Self.ages = 1;
+            }
+        }
+        

@@ -1,0 +1,12 @@
+
+        Class Program {
+            main() {
+                Var a: Int = 2;
+                Var b: Boolean = True;
+
+                If(a && b) {
+                    a = a + 1;
+                }
+            }
+        }
+        

@@ -1,0 +1,12 @@
+
+        Class Program {
+            main() {
+                If (1) {
+                    Var i: Int = 1;
+                    Foreach (i In 0 .. 1000 By 1) {
+
+                    }
+                }
+            }
+        }
+        

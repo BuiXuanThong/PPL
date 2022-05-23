@@ -1,0 +1,16 @@
+
+        Class Program {
+            testFun() {
+                Var a, b: Int = 1, 2;
+                If (a > b) {
+                    a = a + 1;
+                }
+                Elseif (a < b) {
+                    a = a - 1;
+                }
+                Else {
+                    a = a * 2;
+                }
+            }
+        }
+        

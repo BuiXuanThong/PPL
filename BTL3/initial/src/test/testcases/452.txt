@@ -1,0 +1,8 @@
+
+        Class Program {
+            Var a: Int = 13.5;
+            main() {
+                
+            }
+        }
+        

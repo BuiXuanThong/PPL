@@ -1,0 +1,13 @@
+
+        Class E {
+            Var a : Int;
+            myFun() {
+
+            }
+        }
+        Class Program {
+            main() {
+                    Var b : Int = E.a;
+            }
+        }
+        

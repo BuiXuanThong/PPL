@@ -1,0 +1,11 @@
+
+        Class Program {
+            Var i: String;
+            Var j: String;
+            main() {
+                Var result: String;
+                result = Self.i +. Self.j;
+                result = True;
+            }
+        }
+        

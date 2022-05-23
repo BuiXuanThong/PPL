@@ -1,0 +1,9 @@
+
+        Class Program {
+            main() {
+                Var str: String = "12";
+                Var result: String;
+                result = (str +. "abcd") == "12abcd";
+            }
+        }
+        

@@ -1,0 +1,7 @@
+
+        Class myClass {
+            func() {
+                Var a: Int;
+            }
+        }
+        

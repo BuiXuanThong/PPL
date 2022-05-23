@@ -1,0 +1,8 @@
+
+        Class Program {
+            main() {
+                Var a : Boolean;
+                a = ! (12);
+            }
+        }
+        

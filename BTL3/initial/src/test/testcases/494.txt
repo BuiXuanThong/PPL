@@ -1,0 +1,16 @@
+
+        Class Program {
+            main() {
+                Var a, b: Int = 1, 2;
+                If (a > b) {
+                    a = a + 1;
+                }
+                Elseif (a < b) {
+                    a = a / b;
+                }
+                Else {
+                    a = a * 2;
+                }
+            }
+        }
+        

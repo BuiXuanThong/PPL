@@ -1,0 +1,16 @@
+
+        Class Program {
+            main() {
+  
+            }
+        }
+        Class A {
+            getAge() {
+                Return 1;
+            }
+        }
+        Class B: A {
+            Var age : Int = Self.getAge();
+            Var height: Int = Self.getHeight();
+        }
+        

@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() {
+                Var b : Int = 0;
+                Foreach (a In 1 .. 100 By 2) {
+                        a = a + 3;
+                }
+            }
+        }
+        

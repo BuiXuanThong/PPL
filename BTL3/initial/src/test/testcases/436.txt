@@ -1,0 +1,10 @@
+
+        Class myClass {
+
+        }
+        Class Program {
+            main() {
+                Var a: myClass = New Ast();
+            }
+        }
+        

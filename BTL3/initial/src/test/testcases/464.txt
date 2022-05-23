@@ -1,0 +1,13 @@
+
+        Class BClass {
+
+        }
+        Class Program {
+            main() {
+                Var obj: myClass = New myClass();
+            }   
+        }
+        Class myClass {
+
+        }
+        

@@ -1,0 +1,8 @@
+
+        Class Program {
+            main() {
+                Var arr0: Int;
+                Val arr: Int;
+            }
+        }
+        

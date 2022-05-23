@@ -1,0 +1,11 @@
+
+        Class Program {
+            Val $numOfShape: Int = 0;
+            main() {
+
+            }
+            $getNumOfShape() {
+                Return mud::$numOfShape;
+            }
+        }
+        

@@ -1,0 +1,13 @@
+
+        Class myClass {
+            $printName() {
+
+            }
+        }
+        Class Program {
+            main() {
+                Var obj: myClass = New myClass();
+                obj::$printSum();
+            }
+        }
+        

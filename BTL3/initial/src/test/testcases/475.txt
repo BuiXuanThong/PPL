@@ -1,0 +1,16 @@
+
+        Class myClass {
+            printName() {
+
+            }
+            $printAge() {
+
+            }
+        }
+        Class Program {
+            main() {
+                Var obj: myClass = New myClass();
+                obj.$printAge();
+            }
+        }
+        

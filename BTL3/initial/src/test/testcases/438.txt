@@ -1,0 +1,12 @@
+
+        Class myClass {
+            myFun() {
+
+            }
+        }
+        Class Program {
+            main() {
+                Var a: myClass = New myClass(1, 2);
+            }
+        }
+        

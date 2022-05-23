@@ -1,0 +1,13 @@
+
+        Class myClass {
+            $getSum(a, b: Int) {
+                Return a + b;
+            }
+        }
+        Class Program {
+            main() {
+                Return myClass::$getAdd(1, 2);
+            }
+        }
+        
+        

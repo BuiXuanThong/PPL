@@ -1,0 +1,15 @@
+
+        Class myClass {
+            Constructor(a, b: Int) {
+
+            }
+            myFun() {
+
+            }
+        }
+        Class Program {
+            main() {
+                Var a: myClass = New myClass(1, 2.5);
+            }
+        }
+        

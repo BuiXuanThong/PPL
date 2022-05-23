@@ -1,0 +1,15 @@
+
+        Class Program {
+            main() {
+                Var a : Int = 1;
+                Var b : Int = 2;
+                
+                If (1) {
+                    a = a + 1;
+                }
+                Else {
+                    a = a - 1;
+                }
+            }
+        }
+        

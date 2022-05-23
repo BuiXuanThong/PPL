@@ -1,0 +1,17 @@
+
+        Class Program {
+            main() {
+                Var a : Int = 1;
+                Var b : Int = 2;
+                
+                If (a > b) {
+                    Var c : Int = 1;
+                    a = a + c;
+                }
+                Else {
+                    a = a - 1;
+                    a = a + c;
+                }
+            }
+        }
+        

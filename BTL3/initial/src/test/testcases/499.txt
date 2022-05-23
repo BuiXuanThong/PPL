@@ -1,0 +1,9 @@
+
+        Class Program {
+            Var a, b, c: Float = 1.0, 2.0 ,3.0;
+            main() {
+                Var a: Float = a + 0.527e-2;
+                Var b: Float = b * (5.72 / 12e-6);
+            }
+        }
+        

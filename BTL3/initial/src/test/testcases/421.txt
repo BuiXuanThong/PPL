@@ -1,0 +1,8 @@
+
+        Class Program {
+            main() {
+                Var result : Boolean;
+                result = (12 > "good");
+            }
+        }
+        

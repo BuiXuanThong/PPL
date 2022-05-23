@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() {
+                Var i: String;
+                Foreach(i In 1 .. 10) {
+                    
+                }
+            }
+        }
+        

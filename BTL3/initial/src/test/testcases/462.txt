@@ -1,0 +1,11 @@
+
+        Class A {
+            foo() {
+                Val x : Int = 10;
+                Foreach(x In 1 .. 100 By 1)
+                {
+
+                }
+            }
+        }
+        

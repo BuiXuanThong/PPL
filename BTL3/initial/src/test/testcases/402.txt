@@ -1,0 +1,4 @@
+Class myClass {
+            getName() { }
+            getName() { }
+        }

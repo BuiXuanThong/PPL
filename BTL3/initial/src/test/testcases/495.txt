@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() {
+                Var arr: Array[Int, 5] = Array(1, 2, 3, 4, 5);
+                If (arr[0] > arr[1] || "array") {
+
+                }
+            }
+        }
+        

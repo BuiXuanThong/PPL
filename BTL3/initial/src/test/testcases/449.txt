@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() {
+                Return Program::$getSum();
+            }
+            $getSum(a, b: Int) {
+                Return a + b;
+            }
+        }
+        

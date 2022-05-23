@@ -1,0 +1,15 @@
+
+        Class Program {
+            main() {
+                Var x: Int;
+                Var a: Int;
+                Foreach(x In 1 .. 100 By 1)
+                {
+                    a = 12 + x;
+                }
+                {
+                    Break;
+                }
+            }   
+        }
+        

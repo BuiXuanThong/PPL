@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(Id(a),IntLit(1),IntLit(100),FloatLit(2.5),Block([AssignStmt(Id(b),BinaryOp(+,Id(b),IntLit(3)))])])

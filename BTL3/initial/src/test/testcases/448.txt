@@ -1,0 +1,10 @@
+
+        Class Program {
+            main() {
+                Return Program::$getName();
+            }
+            $getNumOfShape() {
+                Return 2;
+            }
+        }
+        

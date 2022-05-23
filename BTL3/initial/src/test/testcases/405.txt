@@ -1,0 +1,6 @@
+
+        Class myClass {
+            myFun(a, b: Int) {
+                Var a : Int;
+            }
+        }

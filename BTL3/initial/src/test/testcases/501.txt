@@ -1,0 +1,28 @@
+
+        Class Vehicle
+        {
+            Vehicle()
+            {
+                io.writeVarLn("Self is a Vehicle");
+            }
+        }
+
+        Class FourWheeler
+        {
+            FourWheeler()
+            {
+                io.writeVarLn("Self is a 4 wheeler Vehicle");
+            }
+        }
+
+        Class Car : Vehicle
+        {
+        }
+              Class Program{
+            main(){
+               
+                Var z: Int = "x.numOfShape";
+                Var y : Int = x.numOfShape + 1;
+            }
+        }
+        

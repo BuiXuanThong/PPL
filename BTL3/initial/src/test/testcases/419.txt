@@ -1,0 +1,8 @@
+
+        Class Program {
+            main() {
+                Var result : Int;
+                result = 4 % 2.0;
+            }
+        }
+        

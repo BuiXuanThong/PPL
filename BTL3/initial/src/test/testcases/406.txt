@@ -1,0 +1,6 @@
+
+        Class Program {
+            main(a, b: Int) {
+                c = 2;
+            }
+        }

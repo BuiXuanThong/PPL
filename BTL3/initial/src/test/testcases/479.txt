@@ -1,0 +1,13 @@
+
+        Class Program {
+            getAge() {
+                Return 1;
+            }
+            getName() {
+                Return 2;
+            }
+            main() {
+                Var result: Int = Self.getHeight();
+            }
+        }
+        

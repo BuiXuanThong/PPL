@@ -1,0 +1,14 @@
+
+        Class myClass {
+            Var $a: Int;
+            $printAge() {
+
+            }
+        }
+        Class Program {
+            main() {
+                Var obj: myClass = New myClass();
+                obj.$a = 1;
+            }
+        }
+        

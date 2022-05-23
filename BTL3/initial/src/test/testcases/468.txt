@@ -1,0 +1,13 @@
+
+        Class Program {
+            main() {
+                If (True) {
+                    Var i: Int = 1;
+                    Val b: Int = 2;
+                    Foreach (i In 0 .. 1000 By "12") {
+
+                    }
+                }
+            }
+        }
+        
